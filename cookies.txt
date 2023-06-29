@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-furniturecollection.us	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
-furniturecollection.us	TRUE	/	FALSE	1999999999	wp_woocommerce_session_5afab778005a0093e8dec2571836c64b	t_e546caa75b81e4cf281bfd6d47226b%7C%7C1685156724%7C%7C1685153124%7C%7C1b4953b0de4c178287804c73eab7ad51
-furniturecollection.us	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3097e8d5db0f881c0d72de3c20b42d72
-
